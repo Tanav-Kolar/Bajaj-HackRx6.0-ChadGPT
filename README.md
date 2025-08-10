@@ -58,8 +58,8 @@ The system follows a five-stage pipeline to process requests:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/Tanav-Kolar/Bajaj-HackRx6.0-ChadGPT.git
+    cd Bajaj-HackRx6.0-ChadGPT
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -93,6 +93,7 @@ The system follows a five-stage pipeline to process requests:
     python-docx
     PyMuPDF
     httpx
+    numpy
     ```
 
     Then, install the packages:
