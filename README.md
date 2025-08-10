@@ -10,17 +10,17 @@ This project is a high-performance, modular API for Retrieval-Augmented Generati
 
 ## Table of Contents
 
-  - [Key Features](https://www.google.com/search?q=%23key-features)
-  - [Architecture Overview](https://www.google.com/search?q=%23architecture-overview)
-  - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-  - [Installation](https://www.google.com/search?q=%23installation)
-  - [Configuration](https://www.google.com/search?q=%23configuration)
-  - [Running the Application](https://www.google.com/search?q=%23running-the-application)
-  - [API Endpoints](https://www.google.com/search?q=%23api-endpoints)
-      - [Run RAG Pipeline](https://www.google.com/search?q=%23run-rag-pipeline)
-      - [Test Ingestion Pipeline](https://www.google.com/search?q=%23test-ingestion-pipeline)
-      - [Test Chunking Strategy](https://www.google.com/search?q=%23test-chunking-strategy)
-  - [Example Usage](https://www.google.com/search?q=%23example-usage)
+  - [Key Features]
+  - [Architecture Overview]
+  - [Prerequisites]
+  - [Installation]
+  - [Configuration]
+  - [Running the Application]
+  - [API Endpoints]
+      - [Run RAG Pipeline](https://percivalfletcher-chai-tea-latte.hf.space/hackrx/run)
+      - [Test Ingestion Pipeline](https://percivalfletcher-chai-tea-latte.hf.space/test/ingestion)
+      - [Test Chunking Strategy](https://percivalfletcher-chai-tea-latte.hf.space/test/chunk)
+  - [Example Usage]
 
 ## Key Features
 
