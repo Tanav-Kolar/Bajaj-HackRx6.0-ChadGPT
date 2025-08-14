@@ -1,9 +1,3 @@
-# Bajaj-HackRx6.0-ChadGPT
-
-Of course. Here is a comprehensive README file generated for your codebase.
-
------
-
 # Document Intelligence Bajaj HackRx
 
 This project is a high-performance, modular API for Retrieval-Augmented Generation (RAG) that leverages a sophisticated Parent-Child retrieval strategy. It is built with FastAPI and designed for efficient, parallel processing of complex documents to provide accurate answers to user questions.
